@@ -1,1 +1,70 @@
+html{
+	background-color: #222;
+	color: #ee6
+}
 
+h1{
+	text-align: center;
+}
+
+p{
+	font-family: sans-serif;
+}
+
+h1, h2, h3{
+	color: #eee;
+	text-transform: uppercase;
+}
+
+strong{
+	border-bottom: 1px solid #fff;
+}
+
+.the-force{
+	background-color: #444;
+	font-weight: bold;
+}
+
+.light-side{
+	color: #66f;
+}
+
+.dark-side{
+	color:  #f33;
+}
+
+#og-trilogy {
+	list-style-type: circle;
+}
+
+ul:nth-of-type(2){
+	padding-left: 90px;
+}
+
+ul:nth-of-type(3) li:last-of-type/*llama al ultimo elemento*/{
+	 margin-top: 10px;
+}
+
+p:first-of-type::first-line{/*muestra de otro color la primera linea del primer parrafo*/
+	color: #efe;
+}
+
+h1:hover{
+	color: orange;
+}
+
+a:visited{
+	color: #999;
+}
+
+a:not([href])/*link que no tengan el atributo href*/{
+	font-style: italic;
+}
+
+li:nth-of-type(2){
+	background-color: #111;
+}
+
+li:first-of-type, li:nth-of-type(3){
+	background-color: #333;
+}
