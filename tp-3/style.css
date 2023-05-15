@@ -1,0 +1,34 @@
+h1.titulo{
+	text-align: center;
+}
+
+body p {
+	font-family: serif;
+}
+
+p#primer-parrafo.importante.parrafo{
+	background-color: #cee; 
+} 
+
+p#primer-parrafo.importante.parrafo em{ /*4*/
+	color: #933; 
+}
+
+body p a[href*="https:"]{
+	outline: 1px solid #333; /*5*/
+}
+
+html body p.fuente.parrafo{
+	opacity: 100%;
+
+}
+
+html body p.fuente.parrafo{
+	color: #000 !important;
+
+}
+
+body article#contenedor p.novelas.parrafo span.complicado{
+	font-weight: bold;
+	color: #c62 !important;
+}
