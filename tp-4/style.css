@@ -1,1 +1,65 @@
+@media (width >= 400px){
+	html body{
+		background-color: #234;
+	}
+}
+
+@media (max-width: 800px){
+	h1{
+		text-align: center;
+	}
+}
+
+@media (orientation: landscape){  /*3*/
+	article{
+		max-width: 50ch;
+	}
+}
+
+@media (max-height: 200px){
+	h1{
+		background-color: red;
+	}
+}
+
+@media print{
+	p{
+		font-family: sans-serif; /*5*/
+	}
+}
+
+@media (prefers-color-scheme: light){ /*6*/
+	body h1{
+		color: #111;
+		background: #DDD;
+	}
+}
+
+@media (hover: none){ /*7*/
+	a{
+		background: #212;
+		padding-top: 2px;
+		padding-left: 5px;
+	}
+}
+
+
+@media screen and (min-width: 800px) and (max-width: 900px){ /*8*/
+	img{
+		visibility: hidden;
+	}
+}
+
+@media screen and (200px <= width <= 400px){ /*9*/
+	body img{
+		height: 400px;
+		object-fit: cover;
+	}
+}
+
+@media (resolution > 2dppx){ /*10*/
+	article{
+		background-color: #667; 
+	}
+}
 
