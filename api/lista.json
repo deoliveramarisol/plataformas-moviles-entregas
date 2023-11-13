@@ -6,7 +6,7 @@
 		"hotel": "NH Córdoba Panorama",
 		"caracteristica": "4 estrellas",
 		"precio": "$26.037"
-	}
+	},
 
 	{
 		"ciudad": "Cordoba",
@@ -14,7 +14,7 @@
 		"hotel": "Nuevo Fatica",
 		"caracteristica": "4 estrellas",
 		"precio": "$12.474"
-	}
+	},
 
 	{
 		"ciudad": "Cordoba",
@@ -22,7 +22,7 @@
 		"hotel": "Posada del Vaiven",
 		"caracteristica": "3 estrellas",
 		"precio": "$12.000"
-	}
+	},
 
 	{
 		"ciudad": "Cordoba",
@@ -101,7 +101,7 @@
 		"lugar": "Salta",
 		"hotel": "Hostal las Rosas",
 		"caracteristica": "3 estrellas",
-		"precio": "$11.900",
+		"precio": "$11.900"
 	},
 
 	{
@@ -118,7 +118,7 @@
 		"hotel": "Solar De La Plaza",
 		"caracteristica": "4 estrellas",
 		"precio": "$52.900"
-	}
+	},
 ],
 
 	"actividades":[
@@ -173,6 +173,6 @@
 	"ciudad": "Mar del Plata", 
 	"actividad": "Acuapolis",
 	"precio": "desde $8.480"
-	}
+	},
 ]
 }
