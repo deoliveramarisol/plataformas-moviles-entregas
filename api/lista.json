@@ -13,23 +13,23 @@
 		"lugar": "Vila Carlos Paz",
 		"hotel": "Nuevo Fatica",
 		"caracteristica": "4 estrellas",
-		"precio": "$12.474", 
-	},
+		"precio": "$12.474"
+	}
 
 	{
 		"ciudad": "Cordoba",
 		"lugar": "Vila Carlos Paz",
 		"hotel": "Posada del Vaiven",
 		"caracteristica": "3 estrellas",
-		"precio": "$12.000", 
-	},
+		"precio": "$12.000"
+	}
 
 	{
 		"ciudad": "Cordoba",
 		"lugar": "Vila Carlos Paz",
 		"hotel": "Arona",
 		"caracteristica": "3 estrellas",
-		"precio": "$25.000", 
+		"precio": "$25.000"
 	},
 
 	{
@@ -45,7 +45,7 @@
 		"lugar": "Mina Clavero",
 		"hotel": "Complejo Viejo SulkyS",
 		"caracteristica": "3 estrellas",
-		"precio": "$18.500",
+		"precio": "$18.500"
 	},
 
 	{
@@ -53,7 +53,7 @@
 		"lugar": "Mina Clavero",
 		"hotel": "20 de junio",
 		"caracteristica": "2 estrellas",
-		"precio": "$15.500",
+		"precio": "$15.500"
 	},
 
 	{
@@ -61,7 +61,7 @@
 		"lugar": "San Carlos de Bariloche",
 		"hotel": "Selva India Suites",
 		"caracteristica": "5 estrellas",
-		"precio": "$30.000",
+		"precio": "$30.000"
 	},
 
 	{
@@ -69,7 +69,7 @@
 		"lugar": "Lago Gutierrez",
 		"hotel": "INDÓMITO HOSTEL",
 		"caracteristica": "2 estrellas",
-		"precio": "$6.000",
+		"precio": "$6.000"
 	},
 
 	{
@@ -77,7 +77,7 @@
 		"lugar": "San Carlos de Bariloche",
 		"hotel": "Plaza Bariloche",
 		"caracteristica": "3 estrellas",
-		"precio": "$15.500",
+		"precio": "$15.500"
 	},
 
 	{
@@ -85,7 +85,7 @@
 		"lugar": "Salta",
 		"hotel": "Alejandro 1°",
 		"caracteristica": "5 estrellas",
-		"precio": "$71.000",
+		"precio": "$71.000"
 	},
 
 	{
@@ -93,7 +93,7 @@
 		"lugar": "Salta",
 		"hotel": "Solar De La Plaza",
 		"caracteristica": "4 estrellas",
-		"precio": "$52.900",
+		"precio": "$52.900"
 	},
 
 	{
@@ -109,7 +109,7 @@
 		"lugar": "Salta",
 		"hotel": "Solar De La Plaza",
 		"caracteristica": "4 estrellas",
-		"precio": "$52.900",
+		"precio": "$52.900"
 	},
 
 	{
@@ -117,7 +117,7 @@
 		"lugar": "Salta",
 		"hotel": "Solar De La Plaza",
 		"caracteristica": "4 estrellas",
-		"precio": "$52.900",
+		"precio": "$52.900"
 	}
 ],
 
@@ -125,54 +125,54 @@
 	{
 	"ciudad": "Bariloche", 
 	"actividad": "Circuito Chico - Lagos y Montañas",
-	"precio" "desde $8.000"
+	"precio" :"desde $8.000"
 	},
 
 	{
 	"ciudad": "Bariloche", 
 	"actividad": "San Martín de los Andes por la Ruta de los 7 Lagos",
-	"precio" "desde $38.000"
+	"precio": "desde $38.000"
 	},
 
 	{
 	"ciudad": "Bariloche", 
 	"actividad": "Cerro Tronador - glaciar Ventisquero Negro",
-	"precio" "desde $22.000"
+	"precio" :"desde $22.000"
 	},
 
 	{
 	"ciudad": "Salta", 
 	"actividad": "Cafayate, tierra del vino, Valles Calchaquíes",
-	"precio" "desde $32.600"
+	"precio": "desde $32.600"
 	},
 
 	{
 	"ciudad": "Salta", 
 	"actividad": "Cachi, entre cuestas y cardones",
-	"precio" "desde $29.200"
+	"precio" :"desde $29.200"
 	},
 
 	{
 	"ciudad": "Salta", 
 	"actividad": "Día completo a La Quebrada de Humahuaca",
-	"precio" "desde $36.480"
+	"precio" :"desde $36.480"
 	},
 
 	{
 	"ciudad": "Mar del Plata", 
-	"actividad": " Puerto de Mar del Plata",
-	"precio" "desde $12.480"
+	"actividad": "Puerto de Mar del Plata",
+	"precio":"desde $12.480"
 	},
 
 	{
 	"ciudad": "Mar del plata", 
 	"actividad": "Mundo Marino",
-	"precio" "desde $12.330"
+	"precio" :"desde $12.330"
 	},
 	{
 	"ciudad": "Mar del Plata", 
 	"actividad": "Acuapolis",
-	"precio" "desde $8.480"
+	"precio": "desde $8.480"
 	}
 ]
 }
