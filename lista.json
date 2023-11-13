@@ -1,4 +1,5 @@
-Alojamientos=[
+{
+	"alojamientos":[
 	{
 		"ciudad": "Cordoba",
 		"lugar": "La cañada",
@@ -118,10 +119,9 @@ Alojamientos=[
 		"caracteristica": "4 estrellas",
 		"precio": "$52.900",
 	},
-
-]
-
-Actividades[
+],
+	
+	"actividades":[
 	{
 	"ciudad": "Bariloche", 
 	"actividad": "Circuito Chico - Lagos y Montañas",
@@ -174,4 +174,5 @@ Actividades[
 	"actividad": "Acuapolis",
 	"precio" "desde $8.480"
 	},
-]
+],
+}
