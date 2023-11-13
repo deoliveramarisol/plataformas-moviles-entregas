@@ -169,10 +169,11 @@
 	"actividad": "Mundo Marino",
 	"precio" :"desde $12.330"
 	},
+
 	{
 	"ciudad": "Mar del Plata", 
 	"actividad": "Acuapolis",
 	"precio": "desde $8.480"
 	},
-]
+],
 }
